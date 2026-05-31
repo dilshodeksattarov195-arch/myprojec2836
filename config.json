@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustervync",
+        "uuid": 27948780,
+        "checksum": "mtxwag"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
